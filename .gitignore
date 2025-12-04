@@ -13,10 +13,6 @@ target/
 *.iml
 *.ipr
 
-# Data files
-data/*.csv
-*.csv
-
 ### Eclipse ###
 .apt_generated
 .classpath
